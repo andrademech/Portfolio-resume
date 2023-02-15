@@ -4,7 +4,7 @@ This is the deploy of my portfolio. It is a work in progress.
 
 ## Portfolio
 
-> Deploy: [Portfolio](https://github.com/andrademech/portfolio) <br />
+> Deploy: [Portfolio](https://portfolio-andrademech.vercel.app/) <br />
 > Git: [Git repository](https://github.com/andrademech/portfolio) <br />
 > Principal language/techonology: *JS, React* <br />
 > Date of creation: 2022-11-15
