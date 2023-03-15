@@ -59,7 +59,7 @@ This is the deploy of my portfolio. It is a work in progress.
 
 ## 9. Node fundamentals
 
-> Git: [Git repository](https://github.com/andrademech/ignite-node-02-api-rest-nodejs) <br />
+> Git: [Git repository](https://github.com/andrademech/02-api-rest-nodejs) <br />
 > Principal language/techonology: *TS, Node, Fastify, Knex* <br />
 > Date of creation: 2023-02-09
 
