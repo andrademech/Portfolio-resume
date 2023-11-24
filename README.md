@@ -1,8 +1,8 @@
 # Portfolio
 
-This is the deploy of my portfolio. It is a work in progress.
+This is a resume of my portfolio. It is a work in progress.
 
-## Frontend
+# Frontend
 
 ## 1. Portfolio
 
@@ -73,7 +73,7 @@ This is the deploy of my portfolio. It is a work in progress.
 > Principal language/techonology: *TS, React, Styled-components, React-router-dom* <br />
 > Created At: 2023-03-11
 
-## Backend
+# Backend
 
 ## 1. Petshop-backend
 
